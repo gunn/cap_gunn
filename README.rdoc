@@ -1,0 +1,11 @@
+== CapGunn
+
+What I use for my own bizzare style of deployment.
+A capistrano task that helps with git, nginx and passenger.
+
+Very unlikely to be useful to anyone else in it's current form. Feel free to grab bits though.
+
+Portions copied from - http://gist.github.com/180365
+
+
+Copyright (c) 2009 Arthur Gunn, released under the MIT license
